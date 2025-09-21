@@ -17,7 +17,7 @@
 
 ---
 
-## 🏅 Certificates  
+## 📜 Certificates  
 
 | Certificate | Issued By | Year |
 |-------------|:---------:|:----:|
@@ -27,23 +27,46 @@
 ---
 
 ## 🛠️ Skills
-- **Programming Languages:** Java, Python, SQL  
-- **Frameworks & Libraries:** React, Node.js, Express  
-- **Databases & Services:** MongoDB, Supabase  
-- **Tools:** Git, GitHub  
+- **Programming Languages:** Java, SQL, Python, HTML, CSS, TypeScript, JavaScript, Shell  
+- **Databases & Services:** IBM DB2 Cloud, Supabase, MongoDB  
+- **Frameworks & Tools:** React, Node.js, Lucidchart, Figma, Canva Education, Notion  
+- **Dev Tools:** Visual Studio Code, Google Workspace, Git, Microsoft Office, Vercel, Heroku  
 
 <p>
+  <!-- Programming Languages -->
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="python"/>
   <img src="https://img.icons8.com/ios-filled/48/database.png" alt="sql"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="python"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="html"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="css"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/>
+  <img src="https://img.icons8.com/color/48/console.png" alt="shell"/>
+
+  <!-- Databases & Services -->
+  <img src="https://assets.streamlinehq.com/image/private/w_34,h_34,ar_1/f_auto/v1/icons/c3/ibm-db2-coymtbbreyqikyceyaq3k.png/ibm-db2-1h8fsrc1ks57cj0119c.png" width="48" alt="ibm db2"/>
+  <img src="https://img.icons8.com/?size=48&id=sH0rW2TvYdr9&format=png" alt="supabase"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+
+  <!-- Frameworks & Tools -->
   <img src="https://img.icons8.com/color/48/react-native.png" alt="react"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="express"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-  <img src="https://img.icons8.com/?size=48&id=sH0rW2TvYdr9&format=png" alt="supabase"/>
+  <img src="https://cdn.brandfetch.io/idXj8rnXDZ/w/800/h/938/theme/dark/symbol.png?c=1bxid64Mup7aczewSAYMX&t=1692624644937" width="30" height="30" alt="lucidchart"/>
+  <img src="https://img.icons8.com/color/48/figma.png" alt="figma"/>
+  <img src="https://img.icons8.com/color/48/canva.png" alt="canva"/>
+  <img src="https://img.icons8.com/color/48/notion.png" alt="notion"/>
+
+  <!-- Dev Tools -->
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode"/>
+  <img src="https://img.icons8.com/color/48/google-logo.png" alt="google workspace"/>
   <img src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  <img src="https://img.icons8.com/material-outlined/48/github.png" alt="github"/>
+  <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="microsoft office"/>
+  <img src="https://img.icons8.com/?size=48&id=123603&format=png" alt="vercel"/>
+  <img src="https://img.icons8.com/color/48/heroku.png" alt="heroku"/>
 </p>
+
+
+
 
 ---
 
