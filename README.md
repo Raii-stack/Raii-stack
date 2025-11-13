@@ -23,6 +23,7 @@
 |-------------|:---------:|:----:|
 | [Introduction to Cybersecurity](https://drive.google.com/file/d/1xuMrys2Ermkp0lvBrSCxFvIkXnXEd_Dd/view?usp=sharing) | Cisco Net Acad | 2025 |
 | [Computer Hardware Basics](https://drive.google.com/file/d/1Fow6uKU6S4QH7sW-MQTYAOAWC2XSdlmp/view?usp=sharing) | Cisco Net Acad | 2025 |
+| [SQL Database 101](https://drive.google.com/file/d/1vHY5lUGF2dMeKuVODL-qkAqTBOwJpeeC/view?usp=sharing) | Cognitive Class AI | 2025 |
 
 ---
 
