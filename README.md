@@ -31,8 +31,8 @@
 
 | Certificate | Issued By | Year |
 |-------------|:---------:|:----:|
-| [Introduction to Cybersecurity](https://drive.google.com/file/d/1xuMrys2Ermkp0lvBrSCxFvIkXnXEd_Dd/view?usp=sharing) | Cisco Net Acad | 2025 |
-| [Computer Hardware Basics](https://drive.google.com/file/d/1Fow6uKU6S4QH7sW-MQTYAOAWC2XSdlmp/view?usp=sharing) | Cisco Net Acad | 2025 |
+| [Introduction to Cybersecurity](https://www.credly.com/badges/ba0dc22a-97f9-4a80-b666-7484c36247a8/public_url) | Cisco Net Acad | 2025 |
+| [Computer Hardware Basics](https://www.credly.com/badges/221c9b08-3a74-412b-94b9-a37f632c81c7/public_url) | Cisco Net Acad | 2025 |
 | [SQL Database 101](https://courses.cognitiveclass.ai/certificates/64655cc25add4952b3b1e60afaef292a) | Cognitive Class AI | 2025 |
 
 ---
