@@ -12,18 +12,19 @@
 ---
 
 ## 🎓 Education
-- **Elementary**
-  - New Era Elementary (2011 - 2018)
-
-
-- **Junior High School**
-  - New Era High School (2018 - 2022)
-
-- **Senior High School**
-  - New Era University (2022 - 2024)
 
 - **Bachelor of Science in Computer Science**
   - New Era University (2024 – Present)
+
+- **Senior High School**
+  - New Era University (2022 - 2024)
+    
+- **Junior High School**
+  - New Era High School (2018 - 2022)
+
+- **Elementary**
+  - New Era Elementary (2011 - 2018)
+    
 ---
 
 ## 📜 Certificates  
