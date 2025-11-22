@@ -68,12 +68,5 @@
 ![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?logo=vercel)
 ![Heroku](https://img.shields.io/badge/Deployment-Heroku-430098?logo=heroku)
 ![Google Cloud](https://img.shields.io/badge/Cloud-Google_Cloud-4285F4?logo=googlecloud)
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raii-stack/Raii-stack/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raii-stack/Raii-stack/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Raii-stack/Raii-stack/output/pacman-contribution-graph.svg">
-</picture>
 
 
