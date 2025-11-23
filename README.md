@@ -34,6 +34,7 @@
 | [Introduction to Cybersecurity](https://www.credly.com/badges/ba0dc22a-97f9-4a80-b666-7484c36247a8/public_url) | Cisco Net Acad | 2025 |
 | [Computer Hardware Basics](https://www.credly.com/badges/221c9b08-3a74-412b-94b9-a37f632c81c7/public_url) | Cisco Net Acad | 2025 |
 | [SQL Database 101](https://courses.cognitiveclass.ai/certificates/64655cc25add4952b3b1e60afaef292a) | Cognitive Class AI | 2025 |
+| OCI Cloud Infrustrure 2025 Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=138B4EAB2AE34F6889ED56F424BC9DD7F7F0A3E6346A40BEB45134F4092B86F3) | Cognitive Class AI | 2025 |
 
 ---
 
