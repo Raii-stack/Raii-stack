@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:ryanjamesgopio@gmail.com"><img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/ryan-gopio-8a9514358"><img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/ryan-james-gopio"><img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="linkedin"/></a>
 </p>
 
 ---
