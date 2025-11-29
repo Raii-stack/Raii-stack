@@ -24,6 +24,7 @@
 | [Introduction to Cybersecurity](https://www.credly.com/badges/ba0dc22a-97f9-4a80-b666-7484c36247a8/public_url) | Cisco Net Acad | 2025 |
 | [Computer Hardware Basics](https://www.credly.com/badges/221c9b08-3a74-412b-94b9-a37f632c81c7/public_url) | Cisco Net Acad | 2025 |
 | [SQL Database 101](https://courses.cognitiveclass.ai/certificates/64655cc25add4952b3b1e60afaef292a) | Cognitive Class AI | 2025 |
+| [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0014500565694) | DataCamp | 2025 |
 | [OCI Foundations Associate 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=138B4EAB2AE34F6889ED56F424BC9DD7F7F0A3E6346A40BEB45134F4092B86F3) | Oracle University | 2025 |
 | [OCI AI Foundations 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD8E88292F4DA6C5EEDEB72AD77AEC676C54F9EACACBE254455334B635AF7514) | Oracle University | 2025 |
 ---
