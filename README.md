@@ -27,6 +27,7 @@
 | [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0014500565694) | DataCamp | 2025 |
 | [OCI Foundations Associate 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=138B4EAB2AE34F6889ED56F424BC9DD7F7F0A3E6346A40BEB45134F4092B86F3) | Oracle University | 2025 |
 | [OCI AI Foundations 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD8E88292F4DA6C5EEDEB72AD77AEC676C54F9EACACBE254455334B635AF7514) | Oracle University | 2025 |
+| [OCI Data Platform Foundations 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CFAAE027A1E24872C0C29430EE866D06CA9ECCC963917C599D345826BC5D3DF5) | Oracle University | 2025 |
 ---
 
 ## 🛠️ Skills
