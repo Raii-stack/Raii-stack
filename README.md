@@ -1,65 +1,47 @@
-<h1 align="center">Hi, I'm Ryan 👋</h1>
-<p align="center">
-  💻 Computer Science Student | ⚡ Problem Solver | 🌱 Always Learning
-</p>
+# Ryan James Gopio
 
-<p align="center">
-  <a href="mailto:ryanjamesgopio@gmail.com"><img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/ryan-james-gopio"><img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="linkedin"/></a>
-</p>
+**Computer Science Student · Web Development · Data & Cloud**
 
----
+I'm a Computer Science student at New Era University. I build web applications and practical tools, with an interest in database design, business systems, and automation.
 
-## 🎓 Education
+[LinkedIn](https://www.linkedin.com/in/ryan-james-gopio) · [Email](mailto:ryanjamesgopio@gmail.com)
 
-- **Bachelor of Science in Computer Science**
-  - New Era University (2024 – Present)
-    
----
+## Featured projects
 
-## 📜 Certificates  
+| Project | Overview |
+| --- | --- |
+| [**HOPE, Inc. ERP**](https://github.com/Raii-stack/BAIYOGESIC) | A shared workspace for customers, products, employees, sales, payments, and reporting. Built with React, TypeScript, Express, and PostgreSQL. Team role: Scrum Master. |
+| [**MediSync**](https://github.com/Raii-stack/MediSync) | A smart medical kiosk project for automated vital signs monitoring and medicine dispensing. |
+| [**Hymn Scanner**](https://github.com/Raii-stack/Hymn-Analyzer) | A Python desktop tool that uses OCR to locate hymns in sheet-music PDFs and AI to extract hymn lists from schedule images. |
 
-| Certificate | Issued By | Year |
-|-------------|:---------:|:----:|
-| [Introduction to Cybersecurity](https://www.credly.com/badges/ba0dc22a-97f9-4a80-b666-7484c36247a8/public_url) | Cisco Net Acad | 2025 |
-| [Computer Hardware Basics](https://www.credly.com/badges/221c9b08-3a74-412b-94b9-a37f632c81c7/public_url) | Cisco Net Acad | 2025 |
-| [SQL Database 101](https://courses.cognitiveclass.ai/certificates/64655cc25add4952b3b1e60afaef292a) | Cognitive Class AI | 2025 |
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Languages | JavaScript, TypeScript, Python, Java, SQL, Shell |
+| Web development | React, Node.js, HTML, CSS |
+| Databases & services | Supabase, MongoDB, IBM Db2 Cloud |
+| Development & design | Git, Visual Studio Code, Figma, Lucidchart |
+| Deployment | Vercel, Heroku |
+
+## Education
+
+**Bachelor of Science in Computer Science**  
+New Era University · 2024–Present
+
+## Credentials
+
+<details>
+<summary>View certificates in cloud, data, and computing</summary>
+
+| Certificate | Issuer | Year |
+| --- | --- | --- |
+| [Introduction to Cybersecurity](https://www.credly.com/badges/ba0dc22a-97f9-4a80-b666-7484c36247a8/public_url) | Cisco Networking Academy | 2025 |
+| [Computer Hardware Basics](https://www.credly.com/badges/221c9b08-3a74-412b-94b9-a37f632c81c7/public_url) | Cisco Networking Academy | 2025 |
+| [SQL Database 101](https://courses.cognitiveclass.ai/certificates/64655cc25add4952b3b1e60afaef292a) | Cognitive Class | 2025 |
 | [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0014500565694) | DataCamp | 2025 |
 | [OCI Foundations Associate 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=138B4EAB2AE34F6889ED56F424BC9DD7F7F0A3E6346A40BEB45134F4092B86F3) | Oracle University | 2025 |
 | [OCI AI Foundations 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD8E88292F4DA6C5EEDEB72AD77AEC676C54F9EACACBE254455334B635AF7514) | Oracle University | 2025 |
 | [OCI Data Platform Foundations 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CFAAE027A1E24872C0C29430EE866D06CA9ECCC963917C599D345826BC5D3DF5) | Oracle University | 2025 |
----
 
-## 🛠️ Skills
-- **Programming Languages:** Java, SQL, Python, HTML, CSS, TypeScript, JavaScript, Shell  
-- **Databases & Services:** IBM DB2 Cloud, Supabase, MongoDB  
-- **Frameworks & Tools:** React, Node.js, Lucidchart, Figma, Canva Education, Notion  
-- **Dev Tools:** Visual Studio Code, Google Workspace, Git, Microsoft Office, Vercel, Heroku  
-
-### Badges
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?logo=typescript)
-![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python)
-![Java](https://img.shields.io/badge/Language-Java-orange?logo=java)
-![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/Language-CSS3-1572B6?logo=css3)
-![SQL](https://img.shields.io/badge/Language-SQL-4479A1?logo=postgresql)
-![Shell](https://img.shields.io/badge/Language-Shell-lightgrey?logo=powershell)
-![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Framework-Node.js-339933?logo=nodedotjs)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb)
-![Supabase](https://img.shields.io/badge/Database-Supabase-3ecf8e?logo=supabase)
-![IBM DB2](https://img.shields.io/badge/Database-IBM_DB2-0072C3?logo=ibm)
-![VS Code](https://img.shields.io/badge/DevTool-VS_Code-007ACC?logo=visualstudiocode)
-![Git](https://img.shields.io/badge/DevTool-Git-F05032?logo=git)
-![Google Workspace](https://img.shields.io/badge/DevTool-Google_Workspace-4285F4?logo=google)
-![MS Office](https://img.shields.io/badge/DevTool-Microsoft_Office-D83B01?logo=microsoftoffice)
-![Figma](https://img.shields.io/badge/Tool-Figma-F24E1E?logo=figma)
-![Notion](https://img.shields.io/badge/Tool-Notion-000000?logo=notion)
-![Canva](https://img.shields.io/badge/Tool-Canva-00C4CC?logo=canva)
-![Lucidchart](https://img.shields.io/badge/Tool-Lucidchart-E8442E?logo=lucidchart)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?logo=vercel)
-![Heroku](https://img.shields.io/badge/Deployment-Heroku-430098?logo=heroku)
-![Google Cloud](https://img.shields.io/badge/Cloud-Google_Cloud-4285F4?logo=googlecloud)
-
-
+</details>
